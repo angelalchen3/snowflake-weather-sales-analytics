@@ -53,5 +53,5 @@ app.py
 This project emphasizes production-style analytics patterns, including layered data modeling, reusable transformations, and integrated data enrichment, rather than exploratory analysis.
 
 ## Acknowledgements
-This project was inspired by Snowflake’s Tasty Bytes and Northstar analytics workshop materials. The implementation, organization, and extensions shown here reflect independent work adapted for portfolio presentation.
+This project was inspired by Snowflake’s Tasty Bytes and Northstar analytics workshop materials. The implementation, organization, and extensions shown here reflect independent work adapted for portfolio presentation. The original repo can be found here: https://github.com/Snowflake-Labs/sfguide-snowflake-northstar-data-engineering
 
