@@ -33,15 +33,20 @@ This project implements an end-to-end analytics pipeline on Snowflake that inges
 - AWS S3  
 
 ## Repository Structure
-sql/
-ingestion_and_tables.sql
-harmonized_views.sql
-analytics_views.sql
-udfs.sql
-snowpark/
-windspeed_hamburg_snowpark.ipynb
-streamlit/
-app.py
+
+```text
+snowflake-weather-sales-analytics/
+├── sql/
+│   ├── ingestion_and_tables.sql
+│   ├── harmonized_views.sql
+│   ├── analytics_views.sql
+│   └── udfs.sql
+├── snowpark/
+│   └── windspeed_hamburg_snowpark.ipynb
+├── streamlit/
+│   └── app.py
+└── README.md
+
 
 
 ## How to Run
