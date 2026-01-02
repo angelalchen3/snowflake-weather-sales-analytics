@@ -44,7 +44,7 @@ snowflake-weather-sales-analytics/
 ├── streamlit/
 │   └── app.py
 └── README.md
-
+```
 
 
 ## How to Run
