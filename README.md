@@ -33,6 +33,7 @@ This project implements an end-to-end analytics pipeline on Snowflake that inges
 - AWS S3  
 
 ## Repository Structure
+```text
 snowflake-weather-sales-analytics/
 ├── sql/
 │   ├── ingestion_and_tables.sql
